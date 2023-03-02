@@ -4,6 +4,6 @@
 
 - [Telegram Chat Bot](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Python_chat_bot) — умный чат-бот на платформе Telegram с запуском работы в асинхронном режиме (применение методов классификации текста в модели многослойного перцептрона.
 
-- [Simple projects](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Simple_projects).
+- [Simple projects](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Simple_projects) — сборник моих собственно написанных самых стартовых и простых мини-проектов.
 
 - [Voice assistant](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Voice_assistant) — голосовой умный ассистент с большим пулом возможностей и применением нескольких API.
