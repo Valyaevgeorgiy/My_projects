@@ -6,4 +6,4 @@
 
 - [Simple projects](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Simple_projects).
 
-- [Voice assistant](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Voice_assistant).
+- [Voice assistant](https://github.com/Valyaevgeorgiy/My_projects/tree/main/Voice_assistant) — голосовой умный ассистент с большим пулом возможностей и применением нескольких API.
